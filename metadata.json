@@ -1,0 +1,6 @@
+{
+  "name": "Nam Avtoshina — Shina va Diskalar Savdo Tizimi",
+  "description": "Namangan Avtoshina savdo-sotiq Telegram Web App katalogi, savatcha, filiallar xaritasi va Admin ombor hisob-kitob (kirim-chiqim) tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
